@@ -185,7 +185,7 @@
     }
   }
   
-@media  (max-width:480px) {
+/*@media  (max-width:480px) {
     #clock {
         margin-left: -23px;
     }
@@ -193,4 +193,4 @@
         font-size: 20px;
         margin-right: 90px;
     }
-}
+}*/
